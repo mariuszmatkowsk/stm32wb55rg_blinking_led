@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "cmakeMinimumRequired": {
+        "major": 3,
+        "minor": 27
+    },
+    "configurePresets": [
+        {
+            "name": "arm",
+            "hidden": false,
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build",
+            "toolchainFile": "${sourceDir}/arm-none-eabi-gcc.cmake"
+        }
+    ]
+}

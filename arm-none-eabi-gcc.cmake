@@ -10,4 +10,5 @@ set(CMAKE_AR /home/mariusz/opt/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/
 set(CMAKE_RANLIB /home/mariusz/opt/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-ranlib)
 set(CMAKE_OBJCOPY /home/mariusz/opt/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-objcopy)
 set(CMAKE_ASM_COMPILER /home/mariusz/opt/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc)
+set(CMAKE_SIZE /home/mariusz/opt/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-size)
 
