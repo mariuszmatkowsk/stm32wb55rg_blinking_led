@@ -158,7 +158,6 @@
 /**
   * @}
   */
-
 /** @addtogroup STM32WBxx_System_Private_Variables
   * @{
   */
